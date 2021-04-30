@@ -1,6 +1,8 @@
 <p align="center">
 :fire::cyclone: Hey there , it talhadotasif :cyclone::fire:
 <br>
+Pentesting & Cloud Security
+<br> 
 <img src="https://github.com/TalhaDotAsif/TalhaDotAsif/blob/main/preview.gif" width="350" />
 <br>
 :snowflake::jack_o_lantern: Exiciting time in the world right now! exiciting time :jack_o_lantern::snowflake:
